@@ -1,3 +1,3 @@
 # PhysicsSimWeb
-PhysicsSim Web Application
+PhysicsSim Web Application  
 A port of PhysicsSim from Java to JavaScript using GWT.
